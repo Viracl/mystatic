@@ -12,11 +12,10 @@
   width: 210px !important;
 }
 .panelContent .wrp_code {
-  margin-top: 0px !important;
+  margin-top: 15px !important;
 }
 .panelContent .wrp_code .js_qrcode_img {
   width: 210px !important;
-  heigh: 210px !important;
 }
 .impowerBox .status {
   text-align: center;
