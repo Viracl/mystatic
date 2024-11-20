@@ -8,6 +8,13 @@
 .status_icon {
   display: none !important;
 }
+.panelContent .wrp_code {
+  margin-top: 0px !important;
+}
+.js_qrcode_img {
+  width: 210px;
+  heigh: 210px;
+}
 .impowerBox .status {
   text-align: center;
 }
