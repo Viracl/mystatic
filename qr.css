@@ -11,9 +11,9 @@
 .panelContent .wrp_code {
   margin-top: 0px !important;
 }
-.js_qrcode_img {
-  width: 210px;
-  heigh: 210px;
+.panelContent .wrp_code .js_qrcode_img {
+  width: 210px !important;
+  heigh: 210px !important;
 }
 .impowerBox .status {
   text-align: center;
