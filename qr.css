@@ -1,0 +1,13 @@
+.impowerBox .title {
+  display: none;
+}
+.impowerBox .info {
+  width: 200px;
+  display: none;
+}
+.status_icon {
+  display: none !important;
+}
+.impowerBox .status {
+  text-align: center;
+}
