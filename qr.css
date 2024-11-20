@@ -8,6 +8,9 @@
 .status_icon {
   display: none !important;
 }
+.panelContent{
+  width: 210px !important;
+}
 .panelContent .wrp_code {
   margin-top: 0px !important;
 }
